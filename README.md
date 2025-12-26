@@ -33,7 +33,7 @@ This project presents a comprehensive **Speech Emotion Recognition system** that
 
 ---
 
-## 🚀 Features {#features}
+## 🚀 Features
 
 - 🎧 **Real-time emotion recognition** from `.wav` audio files
 - 🧠 **Hybrid CNN + LSTM architecture** combining spatial and temporal feature learning
@@ -157,7 +157,7 @@ Speech-Emotion-Recognition/
 
 ---
 
-## ⚙️ Installation {#installation}
+## ⚙️ Installation 
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -203,7 +203,7 @@ python -c "import librosa; print(f'Librosa version installed')"
 
 ---
 
-## ▶️ Usage {#usage}
+## ▶️ Usage 
 
 ### Quick Start: Predict Emotion from Sample Audio
 
@@ -589,7 +589,6 @@ If you found this project helpful, please consider:
 
 <div align="center">
 
-**Last Updated:** December 2025
 
 [⬆ Back to Top](#-speech-emotion-recognition)
 
