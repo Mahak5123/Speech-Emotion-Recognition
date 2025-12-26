@@ -12,8 +12,6 @@ A sophisticated deep learning–based system that recognizes human emotions from
 
 **Detect emotions such as Happy, Sad, Angry, Fear, Disgust, Surprise, and Neutral from voice recordings.**
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Architecture](#architecture) • [Results](#results) • [Contributing](#contributing)
-
 </div>
 
 ---
