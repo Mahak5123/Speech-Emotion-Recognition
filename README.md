@@ -12,7 +12,7 @@ A sophisticated deep learning–based system that recognizes human emotions from
 
 **Detect emotions such as Happy, Sad, Angry, Fear, Disgust, Surprise, and Neutral from voice recordings.**
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Architecture](#-system-architecture) • [Results](#-model-evaluation) • [Contributing](#-contributing)
+[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Architecture](#architecture) • [Results](#results) • [Contributing](#contributing)
 
 </div>
 
@@ -33,7 +33,7 @@ This project presents a comprehensive **Speech Emotion Recognition system** that
 
 ---
 
-## 🚀 Features
+## 🚀 Features {#features}
 
 - 🎧 **Real-time emotion recognition** from `.wav` audio files
 - 🧠 **Hybrid CNN + LSTM architecture** combining spatial and temporal feature learning
@@ -48,7 +48,7 @@ This project presents a comprehensive **Speech Emotion Recognition system** that
 
 ---
 
-## 🧠 System Architecture
+## 🧠 System Architecture {#architecture}
 
 ### Pipeline Overview
 
@@ -157,7 +157,7 @@ Speech-Emotion-Recognition/
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Installation {#installation}
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -203,7 +203,7 @@ python -c "import librosa; print(f'Librosa version installed')"
 
 ---
 
-## ▶️ Usage
+## ▶️ Usage {#usage}
 
 ### Quick Start: Predict Emotion from Sample Audio
 
@@ -334,7 +334,7 @@ Output Layer (7 emotions, Softmax)
 
 ---
 
-## 📈 Model Performance
+## 📈 Model Performance {#results}
 
 ### Emotion Classification Results
 
